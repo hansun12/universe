@@ -1,0 +1,14 @@
+Info on Jeremy Affeldt is: (41, P, Jeremy Affeldt, 6-5, 226, L, 0.231)
+
+Batting average of Giants is: 0.22275999999999999
+Batting average of Giants not including pitchers is: 0.2859230769230769
+
+Average height of Giants players is: 6-1
+
+Number of switch hitters on the Giants team is: 5
+Number of right handed hitters on the Giants team is: 14
+Number of left handed hitters on the Giants team is: 6
+
+Number of pitchers on the Giants team is: 12
+Number of catchers on the Giants team is: 2
+Number of infielders on the Giants team is: 6
