@@ -1,4 +1,4 @@
-package universe.CSE215;
+package CSE215;
 
 public class TestCSE215 {
     public static void main(String[] args) {
