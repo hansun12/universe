@@ -1,5 +1,9 @@
 # 수업 내용
 
+## lecture 1
+
+java 환경 설정
+
 ## lecture 8
 
 ### 상속
